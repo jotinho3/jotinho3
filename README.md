@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Digital House as front-end Teacher <br>👯 I’m looking to collaborate with the front-end dev community and help developers across the world<br>🤝 I’m looking for a new job in front-end development, i am currently open for proposals<br>🌱 I’m currently learning Node.js, Express.js and React.js<br>💬 Ask me about CSS tricks and HTML semantics<br>⚡ Fun fact: I am a veteran Elder Scrolls gamer!
+🔭 I’m currently working as Fullstack teacher and developer! <br>👯 I’m looking to collaborate with the fullstack dev community and help developers across the world<br>🤝 I’m looking for a new job in fullstack development, i am currently open for proposals<br>🌱 I’m currently learning Node.js, Express.js and Firebase <br>💬 Ask me about CSS tricks and HTML semantics<br>⚡ Fun fact: I am a veteran Elder Scrolls gamer!
 
 
 ## 🌐 Socials:
